@@ -1,4 +1,4 @@
-# Portafolio de Hardcode275
+# 💼 Portafolio de Hardcode275
 
 Bienvenido a mi portafolio personal. Soy un desarrollador de software con experiencia en tecnologías como JavaScript, React, Node.js, java, sprintboot y más. Aquí podrás encontrar información sobre mi experiencia, proyectos y cómo contactarme.
 
@@ -24,7 +24,7 @@ Dentro de este proyecto, encontrarás las siguientes carpetas y archivos:
 ├── package.json
 └── tsconfig.json
 ```
-## 🧞 Commands
+## 🛠️ Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -41,6 +41,21 @@ All commands are run from the root of the project, from a terminal:
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Credit
+
+## 🚀 Local configuration
+1. Clone the repo:  
+```
+git clone https://github.com/Hardcode275/Portafolio_Hr.git
+```
+2. Install dependencies:
+```  
+npm install
+```
+3. Start the develpoment server:
+```  
+npm run dev
+```
+
+## 🏆 Creditos
 
 Este portafolio está basado en el kit de inicio de Astro
