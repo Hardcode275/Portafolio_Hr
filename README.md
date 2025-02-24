@@ -1,29 +1,16 @@
-# Astro Starter Kit: Blog
+# Portafolio de [Tu Nombre]
 
-```sh
-npm create astro@latest -- --template blog
-```
+Bienvenido a mi portafolio personal. Soy un desarrollador de software con experiencia en tecnologías como JavaScript, React, Node.js, y más. Aquí podrás encontrar información sobre mi experiencia, proyectos y cómo contactarme.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+## 🚀 Demo
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Puedes ver una demo de mi portafolio en el siguiente enlace:
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+[Demo del Portafolio](https://starlit-cupcake-12997f.netlify.app/)
 
-Features:
+## 📂 Estructura del Proyecto
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
+Dentro de este proyecto, encontrarás las siguientes carpetas y archivos:
 
 ```text
 ├── public/
@@ -37,15 +24,6 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── package.json
 └── tsconfig.json
 ```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
@@ -65,4 +43,4 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 
 ## Credit
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Este portafolio está basado en el kit de inicio de Astro
