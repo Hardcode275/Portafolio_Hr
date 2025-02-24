@@ -1,10 +1,10 @@
 # Portafolio de Hardcode275
 
-Bienvenido a mi portafolio personal. Soy un desarrollador de software con experiencia en tecnologías como JavaScript, React, Node.js, y más. Aquí podrás encontrar información sobre mi experiencia, proyectos y cómo contactarme.
+Bienvenido a mi portafolio personal. Soy un desarrollador de software con experiencia en tecnologías como JavaScript, React, Node.js, java, sprintboot y más. Aquí podrás encontrar información sobre mi experiencia, proyectos y cómo contactarme.
 
 ## 🚀 Demo
 
-Puedes ver una demo de mi portafolio en el siguiente enlace:
+Puedes ver una demo de mi portafolio en el siguiente enlace (aun esta en construccion):
 
 [Demo del Portafolio](https://starlit-cupcake-12997f.netlify.app/)
 
